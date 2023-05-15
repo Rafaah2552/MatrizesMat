@@ -1,0 +1,28 @@
+body {
+    background-color: #D393FF;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+table {
+    color: black;
+    background-color: white;
+    width: 5%;
+    margin-bottom : 1em;
+    margin: auto;
+    text-align: center;
+    border: #006D03;
+    border-collapse: collapse;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+#Matrizes {
+    display: flex;
+}
